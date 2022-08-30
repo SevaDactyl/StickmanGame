@@ -1,7 +1,6 @@
 from tkinter import *
 import random
 import time
-import turtle
 
 class Game:
 	def __init__(self):
